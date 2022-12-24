@@ -1,0 +1,35 @@
+ul{
+    list-style-type: none;
+    display: flex;
+    width: 450px;
+    justify-content: space-between;
+}
+
+.headers{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: rgb(204, 97, 119);
+}
+
+.header_bg{
+    background-color: rgb(204, 97, 119);
+}
+
+a{
+    text-decoration: none;
+    color: rgb(15, 228, 4);
+    font-size: 20px;
+}
+
+select{
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 10px;
+    background-color: aqua;
+    color: rgb(204, 97, 119);
+    font-size: 20px;
+}

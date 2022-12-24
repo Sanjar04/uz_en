@@ -1,0 +1,28 @@
+.main{
+    background-color: aqua;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.card{
+    border: 2px solid black;
+    padding-top: 40px;
+    padding-bottom: 150px;
+    border-radius: 10px;
+}
+
+.title{
+    text-align: center;
+    font-size: 60px;
+}
+
+.card_copy{
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+hr{
+    border: 2px solid rgb(241, 32, 136);
+    background-color: rgb(241, 32, 136);
+    margin-top: 10px;
+}

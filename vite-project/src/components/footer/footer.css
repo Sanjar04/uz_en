@@ -1,0 +1,11 @@
+.footers{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: rgb(204, 97, 119);
+}
+
+p{
+    font-size: 20px;
+}
